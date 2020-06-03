@@ -22,9 +22,9 @@ body {
 
 .movie-container h1 {
   margin-bottom: 40px;
-  font-size: 16px;
+  font-size: 30px;
   border-bottom: 3px solid #fff;
-  color: #444451;
+  color: #fff;
 }
 
 .movie-container select {
